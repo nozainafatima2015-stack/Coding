@@ -11,4 +11,4 @@ my_file=open('myfile.txt','w')
 my_file.write("Hi! I am Penguin and I am 11 years old.")
 my_file.close()
 
-os.remove('Codingal.txt')
+os.remove('Sample.txt')
